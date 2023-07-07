@@ -1,2 +1,2 @@
 console.log("Hello World!");
-console.log("Saya Shodiq Imam P");
+console.log("Saya Shodiq Imam Purnomo");
